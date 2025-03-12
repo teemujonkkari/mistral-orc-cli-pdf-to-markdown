@@ -1,0 +1,2 @@
+mistralai>=0.0.8
+argparse>=1.4.0
